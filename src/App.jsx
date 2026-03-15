@@ -1,4 +1,4 @@
-import Dashboard from '../ProDeen.jsx'
+import Dashboard from './ProDeen.jsx'
 
 function App() {
     return <Dashboard />
